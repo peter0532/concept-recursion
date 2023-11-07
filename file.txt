@@ -1,0 +1,16 @@
+.step 1:
+-create a variable x to hold the word 
+.step 2:
+create a variable y to hold reverse word  
+.step 3:
+-spilt the original word into an array
+.step 4:
+-reverse the split word store in variable y
+.step 5:
+-join the characters together
+.step 6:
+-check if the original word is equal to the reverse word 
+.step 7:
+-if yes return is palindrome else return is not palindrome
+.step 8:
+-print result 
